@@ -38,7 +38,7 @@ _requirements.txt_ contains the Python packages used by the code and the website
 1. Clone the Github Repository
 
 ```
-$ git clone https://github.com/Sachin1801/IQE && cd IQE/
+$ git clone https://github.com/VaibhavPathak98915/IQE && cd IQE/
 ```
 
 2. Create a new Environment for the Project using virtualenv
