@@ -76,7 +76,7 @@ $ python3 test_model.py use_gpu=false
 1. Clone the Github Repository
 
 ```
-$ git clone https://github.com/Sachin1801/IQE && cd IQE/
+$ git clone https://github.com/VaibhavPathak98915/IQE && cd IQE/
 ```
 
 2. Create a new Environment for the Project using virtualenv
