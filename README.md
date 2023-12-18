@@ -108,8 +108,5 @@ $ cd WebContent/IQE_site/
 $ python3 manage.py runserver
 ```
 
-## Contact Me
-
-[Sachin Adlakha](mailto:sachinadlakha1801@gmail.com)
 
 # IQE
